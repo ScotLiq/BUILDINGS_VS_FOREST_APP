@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 pillow
-scikit-learn
+scikit-learn==1.7.2
 joblib
 opencv-python-headless
 scikit-image
